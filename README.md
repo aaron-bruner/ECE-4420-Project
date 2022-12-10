@@ -1,5 +1,6 @@
 ### ECE 4/6420 Final Project
 
+### The final notebook is titled team15_ECE4420_Project.ipynb. The presentation is also present in the root folder.
 #### Requirements
 
 Each group participates in any one of the Kaggle competitions:
